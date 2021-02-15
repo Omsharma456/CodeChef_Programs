@@ -1,7 +1,7 @@
 
 
 ### Codechef Practice Programs
-I created this repo to  easily access all codes done by me on codeche
+I created this repo to  easily access all codes done by me on codechef
 ### Prerequisites
 
 What things you need to install the software and how to install them
